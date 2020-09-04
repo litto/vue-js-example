@@ -1,4 +1,6 @@
-# hello-world
+# A Shopping cartPage Example in Vue.Js
+
+<img src="image.png"/>
 
 ## Project setup
 ```
